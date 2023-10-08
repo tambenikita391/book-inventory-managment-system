@@ -1,0 +1,8 @@
+nikita,ntambe,1234,1234,ESS
+sanika,spatil,9876,9876,CEO
+sanchita,spatil,5678,5678,ADMIN
+neha,ntambe,2345,2345,STUDENTnikita , ntambe , 1234 , 1234 , ESS
+sanika , spatil , 9876 , 9876 , CEO
+sanchita , spatil , 5678 , 5678 , ADMIN
+neha , ntambe , 2345 , 2345 , STUDENT
+nikita , ntambe , test@123 , test@123 , ESS
